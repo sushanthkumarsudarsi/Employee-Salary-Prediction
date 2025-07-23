@@ -19,3 +19,12 @@ To build a machine learning model that predicts employee salaries based on vario
 - `notebooks/` – EDA and model development notebooks
 
 ## 🚀 How to Run
+Place the CSV file (adult 3.csv) in the same directory as employee-salary-prediction.py.
+
+Run the Streamlit app using the terminal or command prompt:
+
+
+"streamlit run employee-salary-prediction.py"
+
+
+The app will open in your browser. You can explore EDA, model evaluation, and make income predictions
